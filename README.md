@@ -10,12 +10,19 @@ a que Puede ser muy Molesta.
 
 ### VERSIONES COMPATIBLES
 __Windows 10 Home - [✔️COMPATIBLE✔️]__
+
 __Windows 10 Pro - [✔️COMPATIBLE✔️]__
+
 __Windows 10 Enterprise - [✔️COMPATIBLE✔️]__
+
 __Windows 10 Enterprise LTSB/LTSC - [❌NO COMPATIBLE❌]__
+
 __Windows 10 Education - [✔️COMPATIBLE✔️]__
+
 __Windows 10 Mobile - [❌NO COMPATIBLE❌]__
+
 __Windows 10 S - [✔️COMPATIBLE✔️]__
+
 __Windows 10 Pro for Workstation - [✔️COMPATIBLE✔️]__
 
 
