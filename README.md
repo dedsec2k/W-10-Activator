@@ -9,21 +9,21 @@ he Creado este Script es para Quitar la Marca de Agua de Windows 10 de la Pantal
 a que Puede ser muy Molesta.
 
 ### VERSIONES COMPATIBLES
-__Windows 10 Home - [✔️COMPATIBLE✔️]__
+Windows 10 Home - [✔️COMPATIBLE✔️]__
 
-__Windows 10 Pro - [✔️COMPATIBLE✔️]__
+Windows 10 Pro - [✔️COMPATIBLE✔️]__
 
-__Windows 10 Enterprise - [✔️COMPATIBLE✔️]__
+Windows 10 Enterprise - [✔️COMPATIBLE✔️]__
 
-__Windows 10 Enterprise LTSB/LTSC - [❌NO COMPATIBLE❌]__
+Windows 10 Enterprise LTSB/LTSC - [❌NO COMPATIBLE❌]__
 
-__Windows 10 Education - [✔️COMPATIBLE✔️]__
+Windows 10 Education - [✔️COMPATIBLE✔️]__
 
-__Windows 10 Mobile - [❌NO COMPATIBLE❌]__
+Windows 10 Mobile - [❌NO COMPATIBLE❌]__
 
-__Windows 10 S - [✔️COMPATIBLE✔️]__
+Windows 10 S - [✔️COMPATIBLE✔️]__
 
-__Windows 10 Pro for Workstation - [✔️COMPATIBLE✔️]__
+Windows 10 Pro for Workstation - [✔️COMPATIBLE✔️]__
 
 
 # FAQ
