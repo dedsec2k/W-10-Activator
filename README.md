@@ -1,4 +1,4 @@
-#W-Activator
+# W-Activator
 W-Activator es un Script compilado a .EXE y adapatado de GUI y Interfaz Permite Activar cualquier Versión de Windows 10
 
 #Servicios
@@ -8,7 +8,7 @@ Así evitar ser Detectada es un Proceso seguro y sin Riesgo la Principal Razón 
 he Creado este Script es para Quitar la Marca de Agua de Windows 10 de la Pantalla debido¨
 a que Puede ser muy Molesta.
 
-#VERSIONES COMPATIBLES
+### VERSIONES COMPATIBLES
 __Windows 10 Home - [✔️COMPATIBLE✔️]__
 __Windows 10 Pro - [✔️COMPATIBLE✔️]__
 __Windows 10 Enterprise - [✔️COMPATIBLE✔️]__
@@ -19,7 +19,7 @@ __Windows 10 S - [✔️COMPATIBLE✔️]__
 __Windows 10 Pro for Workstation - [✔️COMPATIBLE✔️]__
 
 
-#FAQ
+# FAQ
 __No se Activa?__ abre la Barra de Tareas y *Escribe para Buscar* __WINVER__ y ahí podràs observar la Versión de Windows 10 de tu Equipo
 a continuación regresa a __VERSIONES COMPATIBLES__ y Busca si tu Versión es Compatible en el caso que sea Compatible puede ser que ya Tengas
 Windows 10 Activado.
