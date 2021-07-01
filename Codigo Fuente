@@ -1,0 +1,164 @@
+@echo off
+mode con: cols=10 lines=20
+chcp 65001 >nul
+title W-Activator [STATUS:ACTIVE]
+color 9
+cls
+:menu
+echo ════════════════════════════════════
+echo ██╗  ██╗     ██╗    ██╗ ██╗ ██████╗ 
+echo ╚██╗██╔╝     ██║    ██║███║██╔═████╗
+echo  ╚███╔╝█████╗██║ █╗ ██║╚██║██║██╔██║
+echo  ██╔██╗╚════╝██║███╗██║ ██║████╔╝██║
+echo ██╔╝ ██╗     ╚███╔███╔╝ ██║╚██████╔╝
+echo ╚═╝  ╚═╝      ╚══╝╚══╝  ╚═╝ ╚═════╝ 
+echo ════════════════════════════════════
+echo Bienvenido a W-10 Activator By W0lzy                                                                                       
+echo ════════════════════════════════════
+echo [1] Activate Windows
+echo [2] Information
+echo [3] EULA (Leer Porfavor)
+echo ════════════════════════════════════
+set /p var=">>Selecciona Opción:"
+IF '%var%' == '1' GOTO Activator
+IF '%var%' == '2' GOTO info
+IF '%var%' == '3' GOTO eula
+
+:info
+cls
+echo ════════════════════════════════════
+echo ██╗  ██╗     ██╗    ██╗ ██╗ ██████╗ 
+echo ╚██╗██╔╝     ██║    ██║███║██╔═████╗
+echo  ╚███╔╝█████╗██║ █╗ ██║╚██║██║██╔██║
+echo  ██╔██╗╚════╝██║███╗██║ ██║████╔╝██║
+echo ██╔╝ ██╗     ╚███╔███╔╝ ██║╚██████╔╝
+echo ╚═╝  ╚═╝      ╚══╝╚══╝  ╚═╝ ╚═════╝ 
+echo ════════════════════════════════════
+echo Información sobre W-10 Activator                                                                                      
+echo ════════════════════════════════════
+echo ---INFORMACIÓN--
+echo W-Activator es un Software para la
+echo activación automatica de Windows 10
+echo de forma totalmente gratuita debido
+echo a nuestro sistema de Claves de tipo
+echo Universal es funcional para estas
+echo ---VERSIONES DISPONIBLES---
+echo Windows 10 Home
+echo Windows 10 Pro
+echo Windows 10 Enterprise
+echo Windows 10 Education
+echo Windows 10 Pro Education
+echo Windows 10 Enterprise LTSB
+echo Windows 10 Mobile
+echo Windows 10 Mobile Enterprise
+echo ---CREADOR Y DESARROLLADOR---
+echo @Dedsec
+echo Gracias por usar este Software!
+echo Recuerda con un uso Responsable
+echo Disfruta de tu Windows!
+echo ════════════════════════════════════
+pause
+goto menu
+
+:info
+cls
+echo ════════════════════════════════════
+echo ██╗  ██╗     ██╗    ██╗ ██╗ ██████╗ 
+echo ╚██╗██╔╝     ██║    ██║███║██╔═████╗
+echo  ╚███╔╝█████╗██║ █╗ ██║╚██║██║██╔██║
+echo  ██╔██╗╚════╝██║███╗██║ ██║████╔╝██║
+echo ██╔╝ ██╗     ╚███╔███╔╝ ██║╚██████╔╝
+echo ╚═╝  ╚═╝      ╚══╝╚══╝  ╚═╝ ╚═════╝ 
+echo ════════════════════════════════════
+echo EULA (End-User License Agreement)                                                                                      
+echo ════════════════════════════════════
+echo ---EULA---
+echo Porfavor usa este Software para uso
+echo Personal o Familiar o con Amigos eso
+echo si tiene que ser de forma gratuita
+echo es decir no cobres a nadie por el
+echo servicio de este Software vender 
+echo Claves de W-10 es Ilegal y puede
+echo llevarte a Multas y problemas 
+echo judiciales con la ley de Pirateria
+echo y estafa, Gracias por leerlo
+echo Usalo con Responsabilidad Gracias.
+echo ════════════════════════════════════
+pause
+goto menu
+cls
+
+:activated
+cls
+echo ════════════════════════════════════
+echo ██╗  ██╗     ██╗    ██╗ ██╗ ██████╗ 
+echo ╚██╗██╔╝     ██║    ██║███║██╔═████╗
+echo  ╚███╔╝█████╗██║ █╗ ██║╚██║██║██╔██║
+echo  ██╔██╗╚════╝██║███╗██║ ██║████╔╝██║
+echo ██╔╝ ██╗     ╚███╔███╔╝ ██║╚██████╔╝
+echo ╚═╝  ╚═╝      ╚══╝╚══╝  ╚═╝ ╚═════╝ 
+echo ════════════════════════════════════
+echo   --Windows 10 ha sido Activado--                                                                                     
+echo ════════════════════════════════════
+echo Gracias por usar W-10 Activator ya
+echo puedes Disfrutar de Windows 10 en la
+echo Versión totalmente Desbloqueada y en
+echo Registrada en Microsoft Accounts si
+echo deseas ver la Información y todos 
+echo los detalles de tu Registro y Clave
+echo ════════════════════════════════════
+echo [10] Información de Registro de W-10
+echo [99] Salir, Volver al Menu Principal
+echo ════════════════════════════════════ 
+set /p var=">>Selecciona Opción:"
+IF '%var%' == '10' GOTO :license
+IF '%var%' == '2' GOTO menu
+cls
+
+:license
+cls
+echo ════════════════════════════════════
+echo ██╗  ██╗     ██╗    ██╗ ██╗ ██████╗ 
+echo ╚██╗██╔╝     ██║    ██║███║██╔═████╗
+echo  ╚███╔╝█████╗██║ █╗ ██║╚██║██║██╔██║
+echo  ██╔██╗╚════╝██║███╗██║ ██║████╔╝██║
+echo ██╔╝ ██╗     ╚███╔███╔╝ ██║╚██████╔╝
+echo ╚═╝  ╚═╝      ╚══╝╚══╝  ╚═╝ ╚═════╝ 
+echo ════════════════════════════════════
+echo   --Registro Activado By @Dedsec--                                                                                     
+echo ════════════════════════════════════
+echo Proveedor: Dedsec [W-Activator] Devs
+echo Fecha: %time%
+echo License:
+echo W269N-WFGWX-YVC9B-4J6C9-T83GX
+echo Duration: Permanent
+echo Clave By: kms.digiboy.ir
+echo ════════════════════════════════════
+pause
+goto menu
+cls
+
+
+
+:Activate
+REM Revisar/Obtener Permisos
+:check_Permission
+  NET session >nul 2>&1
+  IF %errorLevel% == 0 (
+      GOTO menu
+  ) ELSE (
+      GOTO UACPrompt
+  )
+
+:UACPrompt
+	ECHO Set UAC = CreateObject("Shell.Application") > "%temp%\getadmin1.vbs"
+	ECHO UAC.ShellExecute "cmd","/c ""%~s0"" %*", "", "runas", 1 >> "%temp%\getadmin1.vbs"
+	"%temp%\getadmin1.vbs"
+    DEL "%temp%\getadmin1.vbs"
+    EXIT
+
+:Activator
+  SLMGR /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+  SLMGR /skms kms.digiboy.ir
+  SLMGR /ato
+  goto activated
