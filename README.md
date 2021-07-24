@@ -1,7 +1,7 @@
 # W-Activator
 W-Activator es un Script compilado a .EXE y adapatado de GUI y Interfaz Permite Activar cualquier Versión de Windows 10
 
-#Servicios
+# Servicios
 Activa con una Clave de forma totalmente Automatica el Sistema Operativo Windows 10
 de forma Permanente y se Actualiza la Clave en cada Actualización de Windows 10 para 
 Así evitar ser Detectada es un Proceso seguro y sin Riesgo la Principal Razón por la Cual
